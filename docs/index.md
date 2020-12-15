@@ -2,7 +2,7 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Kiersten R. Schill  
+# Kiersten Schill  
 
 
 <div id="webaddress">
